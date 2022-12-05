@@ -14,9 +14,13 @@ Developer since 2013
 Development of: 
 
 - Business-Software
-- - ERP Software
-- - CRM Software
+  - Enterprise Ressource Planning Software
+  - Customer Relationship Management Software
+  - Accounting Software
+  - Document Management Systems
 - Apps
+  - Employee Apps
+  - Booking app for handyman services
 - FiveM Ressources
 
 -------------------------------------------------------------------------------------------------------------------------------------
