@@ -14,6 +14,8 @@ Developer since 2013
 Development of: 
 
 - Business-Software
+- - ERP Software
+- - CRM Software
 - Apps
 - FiveM Ressources
 
